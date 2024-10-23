@@ -75,3 +75,15 @@
 - `src/java`: Java 백엔드 코드
 - `src/python`: Python 스크립트 및 데이터 처리 관련 파일들
 - 루트 디렉토리: 프로젝트 설정 및 빌드, 임시 생성 관련 파일들
+
+
+![screencapture-localhost-3000-user-MoviePage-122-2024-10-23-17_52_23](https://github.com/user-attachments/assets/8f8027b4-83aa-4abd-b98f-9c00bb09f869)
+
+![screencapture-localhost-3000-user-MovieSearch-2024-10-23-17_52_44](https://github.com/user-attachments/assets/53870c7a-56ec-4f35-aff2-c3ffab41f0e7)
+
+![screencapture-localhost-3000-admin-memberList-2024-09-13-10_05_55](https://github.com/user-attachments/assets/53b84dd6-e469-4db1-8e80-9181c41710cb)
+
+![screencapture-localhost-3000-admin-movieList-2024-10-23-18_34_59](https://github.com/user-attachments/assets/08273c2d-ca92-468e-936b-1f5f8d688160)
+
+![screencapture-localhost-3000-user-mypage-2024-10-23-18_35_17](https://github.com/user-attachments/assets/1e775960-0892-4eda-af2b-fa11a01a5001)
+
